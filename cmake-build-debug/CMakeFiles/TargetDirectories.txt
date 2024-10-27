@@ -1,0 +1,3 @@
+C:/Users/abdal/CLionProjects/MultiArray Operations Library in CPP/cmake-build-debug/CMakeFiles/MultiArray_Operations_Library_in_CPP.dir
+C:/Users/abdal/CLionProjects/MultiArray Operations Library in CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abdal/CLionProjects/MultiArray Operations Library in CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
